@@ -1,1 +1,1 @@
-# CP3_RWD
+# Checkpoint 3 - FIAP na COPA 2022.
